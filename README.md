@@ -2,6 +2,9 @@
 
 A real-time distributed data pipeline that ingests high-volume events through a C++ server, streams them via Kafka, processes them with Spark, stores results in MongoDB, and displays live metrics on a React dashboard.
 
+## Demo
+[Watch demo](https://www.loom.com/share/c18097fea533444eaa0253ca0e1f0798)
+
 ## Stack
 
 - C++ — high-performance ingestion server with thread pool
